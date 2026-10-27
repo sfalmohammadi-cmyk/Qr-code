@@ -6,4 +6,4 @@
 - متوافق مع الجوال، مع زر مشاركة مباشرة.
 - أحجام للحفظ: 512 / 1024 / 2048 بكسل.
 
-الرابط المباشر: https://sfalmohammadi-cmyk.github.io/qr-generator/
+الرابط المباشر: https://sfalmohammadi-cmyk.github.io/Qr-code/
